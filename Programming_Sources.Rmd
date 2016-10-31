@@ -1,5 +1,5 @@
 Recommending the best Learning Programming Resources: 
-<h3> HTML/CSS </h3> </br>
+<h3> HTML/CSS </h3>
 •	Dash by General Assembly: Get introduced to HTML and CSS through a series of interactive tutorials. </br>
 •	Learn to Code HTML & CSS by Shay Howe: This guide offers a more in-depth introduction to HTML and CSS, including how to follow best practices. </br>
 •	CSS Diner: A fantastic game that teaches you CSS selectors.
@@ -10,34 +10,32 @@ Recommending the best Learning Programming Resources:
 •	Intro to SQL by Khan Academy: Learn how to use SQL to store, query, and manipulate data. They also have an SQL sandbox.
 
 <h3> Command Line </h3>
-•	Learn Enough Command Line to Be Dangerous: by Michael Hartl
-Well-written guide that assumes no previous knowledge, and explains jargon. Also contains little exercises to demonstrate the concepts. Highly recommend for beginners.
+•	Learn Enough Command Line to Be Dangerous: by Michael Hartl Well-written guide that assumes no previous knowledge, and explains jargon. Also contains little exercises to demonstrate the concepts. Highly recommend for beginners.
 
 <h3> Algorithms</h3>
-•	Visualgo: Visual learning tool for a bunch of Algorithms and Data Structures.
+•	Visualgo: Visual learning tool for a bunch of Algorithms and Data Structures. </br>
 •	Sorting Algorithm Animations: Animated demos of Insertion, Selection, Bubble, Shell, Merge, Heap, Quick, and Quick3 sorts, with an explanation of how they work.
 
 <h3> Machine Learning </h3>
-•	A Visual Introduction to Machine Learning: A primer on machine learning for beginners, with helpful visualizations.
+•	A Visual Introduction to Machine Learning: A primer on machine learning for beginners, with helpful visualizations. </br>
 •	Statistical Machine Learning: Statistical Machine Learning course from Carnegie Mellon University. Assigments, solutions, and full lecture videos. The course covers methodology and theoretical foundations.
 
 <h3> Git </h3>
-•	Try Git: Never tried git? This interactive tutorial is for you!
-•	Github Git Cheatsheet
-(PDF) Helpful for those who haven't quite memorized the more frequently-used git commands.
-•	Introduction to Git Commits: Step by Step interactive guide to learning how Github works and using Git commands.
+•	Try Git: Never tried git? This interactive tutorial is for you! </br>
+•	Github Git Cheatsheet: (PDF) Helpful for those who haven't quite memorized the more frequently-used git commands.</br>
+•	Introduction to Git Commits: Step by Step interactive guide to learning how Github works and using Git commands. 
 
 <h3> Python </h3>
-•	The Hitchhiker's Guide to Python: An opinionated and thorough guide for getting started in Python.
+•	The Hitchhiker's Guide to Python: An opinionated and thorough guide for getting started in Python.</br>
 •	Learn Python The Hard Way: A thorough guide to Python, great for people who have never programmed before.
 
 <h3> Ruby </h3>
-•	Try Ruby by Code School: Learn the basics of Ruby in the browser.
-•	Ruby Monk: Interactive Ruby tutorials for various levels.
+•	Try Ruby by Code School: Learn the basics of Ruby in the browser.</br>
+•	Ruby Monk: Interactive Ruby tutorials for various levels.</br>
 •	Ruby Programming: Guided resources from various sites for learning ruby and completing your first projects with next steps once you are finished.
 
 <h3> JavaScript </h3>
-•	JS the Right Way: A guide intended to introduce new developers to JavaScript.
+•	JS the Right Way: A guide intended to introduce new developers to JavaScript.</br>
 •	Eloquent JavaScript: Introduction to JavaScript and web development.
 
 <h3> Node </h3>
