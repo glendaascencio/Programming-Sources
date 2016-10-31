@@ -1,13 +1,12 @@
 Recommending the best Learning Programming Resources: 
-<h3> HTML/CSS </h3>
-•	Dash by General Assembly: Get introduced to HTML and CSS through a series of interactive tutorials.
-•	Learn to Code HTML & CSS by Shay Howe: This guide offers a more in-depth introduction to HTML and CSS, including how to follow best practices.
+<h3> HTML/CSS </h3> </br>
+•	Dash by General Assembly: Get introduced to HTML and CSS through a series of interactive tutorials. </br>
+•	Learn to Code HTML & CSS by Shay Howe: This guide offers a more in-depth introduction to HTML and CSS, including how to follow best practices. </br>
 •	CSS Diner: A fantastic game that teaches you CSS selectors.
 
 <h3> Databases/SQL</h3>
-
-•	MISSQL Command: A simple game to practice SQL basics.
-•	PostgreSQL Exercises: Learn about more complex SQL queries with a series of exercises.
+•	MISSQL Command: A simple game to practice SQL basics.</br>
+•	PostgreSQL Exercises: Learn about more complex SQL queries with a series of exercises.</br>
 •	Intro to SQL by Khan Academy: Learn how to use SQL to store, query, and manipulate data. They also have an SQL sandbox.
 
 <h3> Command Line </h3>
