@@ -1,5 +1,5 @@
 Recommending the best Learning Programming Resources: 
-HTML/CSS
+<h3> HTML/CSS <h3>
 
 •	Dash by General Assembly: Get introduced to HTML and CSS through a series of interactive tutorials.
 •	Learn to Code HTML & CSS by Shay Howe: This guide offers a more in-depth introduction to HTML and CSS, including how to follow best practices.
